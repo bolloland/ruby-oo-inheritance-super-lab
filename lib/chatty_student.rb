@@ -9,14 +9,7 @@ class ChattyStudent < Student
     def raise_hand
         #binding.pry
        super
-       super
-       super
-       super
-       super
-       super
-       super
-       super
-       super
-       super
+    10.times super
+    
     end
 end
